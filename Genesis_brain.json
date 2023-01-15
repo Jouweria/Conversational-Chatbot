@@ -1,0 +1,119 @@
+{
+  "Questions": [
+
+    {
+      "tag": "Goodbye",
+      "patterns": [
+        "See you later",
+        "goodbye",
+        "I've got to go",
+        "Let's meet again",
+        "Later"
+      ],
+      "responses": [
+        "Bye :(",
+        "Goodbye Human",
+        "See you :)"
+      ]
+    },
+    {
+      "tag": "greetings",
+      "patterns": [
+        "Hi",
+        "Yo",
+        "Hey",
+        "Hello",
+        "Good morning",
+        "Good evening",
+        "Sup",
+        "What's up",
+        "greetings",
+        "How are you?"
+      ],
+      "responses": [
+        "Hello :D",
+        "*nods*",
+        "Hi!",
+        "Yo",
+        "Hi Human :)"
+      ]
+    },
+    {
+      "tag": "About Genesis",
+      "patterns": [
+        "What is your name?",
+        "What do you call yourself?",
+        "What should I call you?",
+        "Who are you?",
+        "Tell me about you?"
+      ],
+      "responses": [
+        "I Genesis, your mental healthcare companion",
+        "Genesis, a chatbot therapist at your service",
+        "I'm Genesis, your therapist chatbot :)"
+      ]
+    },
+    {
+      "tag": "About yourself",
+      "patterns": [
+        "What is your name?",
+        "What do you call yourself?",
+        "What should I call you?",
+        "Who are you?",
+        "Tell me about you?"
+      ],
+      "responses": [
+        "I Genesis, your mental healthcare companion",
+        "Genesis, a chatbot therapist at your service",
+        "I'm Genesis, your therapist chatbot :)"
+      ]
+    },
+    {
+      "tag": "Problems with family",
+      "patterns": [
+        "I have problems with family",
+        "Don't get along with mother or father",
+        "Don't get along with brother or sister",
+        "don't understand family",
+        "Relatives"
+      ],
+      "responses": [
+        "It can be hard to understand family sometimes",
+        "You're not alone, families can be difficult ;_;",
+        "It's ok, it happens with everybody but family bonds are the strongest, nothing can beat family",
+        "You can always sit down and talk through things calmly. But make sure to give yourself and family members space first"
+      ]
+    },
+    {
+      "tag": "Social anxiety",
+      "patterns": [
+        "I can't connect with friends",
+        "I have trouble having friends",
+        "Don't have friends",
+        "Social anxiety",
+        "How to talk to people?"
+      ],
+      "responses": [
+        "It can be difficult making new connections",
+        "Try to find friends in new places if it helps",
+        "Starting a conversation online with a stranger can help"
+      ]
+    },
+    {
+      "tag": "Appearances",
+      "patterns": [
+        "I'm fat",
+        "I don't like myself",
+        "I think I'm ugly",
+        "I have low self esteem",
+        "I don't have confidence"
+      ],
+      "responses": [
+        "I relate too :(",
+        "We all feel that way from time to time",
+        "When things can better in your life, your perception will change :)",
+        "I feel ya bruh"
+      ]
+    }
+  ]
+}
